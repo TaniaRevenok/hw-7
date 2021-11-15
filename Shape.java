@@ -1,3 +1,5 @@
+package hw_7;
+
 public abstract class Shape implements Print {
 
     @Override
