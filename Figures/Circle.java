@@ -1,3 +1,4 @@
+package hw_7.Figures;
 import hw_7.Shape;
 
 public class Circle extends Shape {
