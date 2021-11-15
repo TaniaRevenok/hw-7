@@ -1,3 +1,7 @@
+package hw_7;
+
+import hw_7.Figures.*;
+
 public class Main {
 
     public static void main(String[] args) {
