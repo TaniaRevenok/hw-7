@@ -1,3 +1,5 @@
+package hw_7;
+
 class PrintFigure implements Print {
     
     private final Shape shape;
